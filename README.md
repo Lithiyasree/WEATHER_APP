@@ -6,14 +6,14 @@ A simple, responsive weather forecasting web application built using **React.js*
 
 ## 🖼️ Example Output
 
->🌍 **City:** Chennai
->🌥️ **Weather icon** : Clear Sky
->🌍 **Country:** IN
->📍 **Latitude:** 13.0878
->📍 **Longitude:** 80.2785  
->🌡️ **Temperature:** 30°C  
->💧 **Humidity:** 80%  
->💨 **Wind Speed:** 3.6 km/h  
+-🌍 **City:** Chennai
+-🌥️ **Weather icon** : Clear Sky
+-🌍 **Country:** IN
+-📍 **Latitude:** 13.0878
+-📍 **Longitude:** 80.2785  
+-🌡️ **Temperature:** 30°C  
+-💧 **Humidity:** 80%  
+-💨 **Wind Speed:** 3.6 km/h  
 
 ---
 
